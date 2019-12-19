@@ -1,0 +1,81 @@
+{
+    "name": "Glympse",
+    "description": "Click here to download --> http:\/\/www.glympse.com\/get_glympse  Official Support Website --> http:\/\/glympse.zendesk.com  Official App Page --> https:\/\/apps.facebook.com\/glympse\/  Twitter--> @Glympse http:\/\/twitter.com\/Glympse",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1837-glympse.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "locations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/glympse\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Glympse",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1837-glympse.jpg",
+            "humanURL": "https:\/\/developer.glympse.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/glympse-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.glympse.com\/cms\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developer.glympse.com\/cms\/syndication.axd"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/glympse"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/glympse"
+        },
+        {
+            "type": "Email",
+            "url": "pr@glympse.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@glympse.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@glympse.com"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@glympse.com"
+        },
+        {
+            "type": "Email",
+            "url": "reportabuse@glympse.com"
+        },
+        {
+            "type": "Email",
+            "url": "customercare@glympse.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Glympse"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.glympse.com\/"
+        }
+    ]
+}
